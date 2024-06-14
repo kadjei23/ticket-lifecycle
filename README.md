@@ -40,9 +40,11 @@ I created a couple tickets for this demonstration.
 
 <img src="https://i.imgur.com/qHs3tpn.png" height="80%" width="80%" alt="Ticket Tab"/>
 
-We are then going to log in to our osTicket system but log in pretending to be an agent. 
+We are then going to log in to our osTicket system but log in pretending to be an agent to see what it'slike to deal with a ticket that comes through.  
 
 <img src="https://i.imgur.com/K609JFO.png" height="80%" width="80%" alt="Agent Log in"/>
+
+Fitstly we are going to observe and set some of the settings regarding which ticket is most important by setting the SLA.
 
 
 
