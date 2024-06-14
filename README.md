@@ -98,7 +98,7 @@ We have now assigned a ticket to the agent john all we have to do is log in as j
 <img src="https://i.imgur.com/c9QG0lz.png" height="80%" width="80%" alt="John's tickets"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here we have the ticket open for John to complete 
 </p>
 <br />
 
@@ -106,7 +106,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/Vods9Wj.png" height="80%" width="80%" alt="Reply to Jo"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On this last ticket we are resolving an issue with replacing a laptop for Jo's team. Fixing the issue by sending them a backup laptop while trying to fix the sticky keyboard and updating their mac to a newer software. After completion John sends it back through express packaging so they can have it ASAP and ship the backup laptop back to HQ. The ticket is now complete and we can now close the ticket.
 
 </p>
 <br />
