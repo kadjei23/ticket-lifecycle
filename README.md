@@ -63,6 +63,15 @@ We then reassigned the ticket to a higher position which would be the System Adm
 
 After setting those settings you can see when you change things on a ticket there's usually a documentation or history where it shows all updates that are being made for a ticket.
 
+<img src="https://i.imgur.com/vWM0z2M.png" height="80%" width="80%" alt=" More Ticket Updates"/>
+
+In this image we let the team know that we are coordinating with the sys admin team to get this fixed.
+
+
+<img src="https://i.imgur.com/ew93qbL.png" height="80%" width="80%" alt="Example"/>
+
+Emergency ticket shown above.
+
 
 
 <h2>Lifecycle Stages</h2>
