@@ -26,9 +26,19 @@ This tutorial outlines the lifecycle of a ticket.We are going to make tickets as
 
 
 
-<h2>Video Demonstration</h2>
+<h2>First Step</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+First step is to go to our support center URL and create a ticket through the perspetive of a customer. 
+
+<img src="https://i.imgur.com/1UQ9SS0.png" height="80%" width="80%" alt="Support Center"/>
+
+I created a couple tickets for this demonstration. 
+
+<img src="https://i.imgur.com/EfENRqS.png" height="80%" width="80%" alt="Ticket Creation"/>
+
+<img src="https://i.imgur.com/qGFktGC.png" height="80%" width="80%" alt="Ticket Creation 2"/>
+
+<img src="https://i.imgur.com/qHs3tpn.png" height="80%" width="80%" alt="Ticket Tab"/>
 
 
 
