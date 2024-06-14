@@ -72,6 +72,16 @@ In this image we let the team know that we are coordinating with the sys admin t
 
 Emergency ticket shown above.
 
+<img src="https://i.imgur.com/HtTKBVM.png" height="80%" width="80%" alt="Ticket Resolved"/>
+
+Here we "fixed" the issue so we head to the ticket and explained what happened after that we can either press resolved or close the ticket on ticket status.
+
+<img src="https://i.imgur.com/G0kUHSO.png" height="80%" width="80%" alt="Ticket Closed"/>
+
+After we hit post reply the ticket is now closed and it shows the documentation of what occured and how the workers resolved the issue.
+
+
+
 
 
 <h2>Lifecycle Stages</h2>
