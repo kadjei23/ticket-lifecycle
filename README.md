@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket.We are going to make tickets as a customer/client and as well as solve the tickets through the lens of the end users/agents that were created in the post installation.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -26,6 +22,15 @@ This tutorial outlines the lifecycle of a ticket.We are going to make tickets as
 - Assignment and Communication
 - Working the Issue
 - Resolution
+
+
+
+
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+
+
 
 <h2>Lifecycle Stages</h2>
 
