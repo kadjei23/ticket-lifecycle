@@ -44,7 +44,24 @@ We are then going to log in to our osTicket system but log in pretending to be a
 
 <img src="https://i.imgur.com/K609JFO.png" height="80%" width="80%" alt="Agent Log in"/>
 
-Fitstly we are going to observe and set some of the settings regarding which ticket is most important by setting the SLA.
+Fitstly we are going to observe and set some of the settings regarding which ticket is most important by setting the priority and impact.
+
+<img src="https://i.imgur.com/fpAUm0I.png" height="80%" width="80%" alt="Edit Ticket Impact"/>
+
+For this ticket we created a high business impact ticket where servers were down causing internet issues which prohibited Crystal from checking out customers and unable to sell items due to registers being down. So we edit the business impact to an emergency due to its high risk.
+
+<img src="https://i.imgur.com/sv4C2QA.png" height="80%" width="80%" alt="SLA Plan"/>
+
+For the SLA plan we changed it to SEV-A because it's iminent that that high level ticket gets resolved quickly
+
+
+<img src="https://i.imgur.com/M4dvOw9.png" height="80%" width="80%" alt="Transfer to Sys Ad"/>
+
+We then reassigned the ticket to a higher position which would be the System Administrators because maybe the help desk team is not equipped to handle or may not be allowed to handle something like that. So, we transferred the ticket to them.
+
+<img src="https://i.imgur.com/RHmr8go.png" height="80%" width="80%" alt="Ticket Updates"/>
+
+After setting those settings you can see when you change things on a ticket there's usually a documentation or history where it shows all updates that are being made for a ticket.
 
 
 
